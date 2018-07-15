@@ -6,7 +6,8 @@
 
 ## 실행 환경 만들기
 * Python 2.7.6 환경에서 작업하였다.
-* oth/requirements.txt를 참고하면 어느 패키지가 필요한지 확인할 수 있다.
+* <s>oth/requirements.txt를 참고하면 어느 패키지가 필요한지 확인할 수 있다.</s> 
+* 특별한 패키지를 사용하진 않았으며, 아마도 `sklearn`과 `numpy` 정도면 충분하리라 생각한다.
 
 ## 기타
 * oth/solution.ipynb 안에 작업시 사용하였던 ipython notebook 파일이 포함되어 있다.
